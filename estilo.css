@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@1,300&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-wsp {
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background-image:url("/img/wsp.png");
+    background-size: cover;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.imgCarousel {
+    height: 350px;
+    object-fit: cover;
+}
